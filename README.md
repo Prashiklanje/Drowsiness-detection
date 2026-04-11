@@ -17,6 +17,14 @@ Driver drowsiness is one of the major causes of road accidents. This project det
 - Computer Vision
 - Deep Learning
 
+📂 Dataset
+
+The dataset used in this project is available here:
+
+ 🔗 https://www.kaggle.com/datasets/your-dataset-link
+
+Download the dataset and place it inside the `dataset/` folder before running the project.
+
 ⚙️ Installation
 
 ```bash
