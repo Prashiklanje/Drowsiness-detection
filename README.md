@@ -5,6 +5,7 @@ A deep learning-based Driver Drowsiness Detection System that detects whether a 
 📌 Project Overview
 
 Driver drowsiness is one of the major causes of road accidents. This project detects drowsiness by analyzing eye movements through a webcam using CNN and OpenCV.
+
 🛠️ Tools & Technologies
 
 - Python
